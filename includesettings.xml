@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C Source File">
+
+</language>
+<language name="C++ Source File">
+<includepath>/home/bigbywolf/esp/esp-idf/components/esp32/include</includepath>
+<includepath>/home/bigbywolf/esp/esp-idf/components/newlib/include</includepath>
+<includepath>/home/bigbywolf/esp/esp-idf/components/freertos/include</includepath>
+<includepath>/home/bigbywolf/esp/esp-idf/components/nvs_flash/include</includepath>
+<includepath>/home/bigbywolf/esp/esp-idf/components/driver/include</includepath>
+<includepath>/home/bigbywolf/esp/esp-idf/components/log/include</includepath>
+<includepath workspace_path="true">/api_dashboard/build/include</includepath>
+<includepath>/home/bigbywolf/esp/esp-idf/components/spi_flash/include</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C Source File">
+
+</language>
+<language name="C++ Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+</cdtprojectproperties>
